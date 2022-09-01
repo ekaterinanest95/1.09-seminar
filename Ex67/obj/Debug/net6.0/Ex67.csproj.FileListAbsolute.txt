@@ -1,0 +1,15 @@
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex67\obj\Debug\net6.0\Ex67.csproj.AssemblyReference.cache
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex67\obj\Debug\net6.0\Ex67.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex67\obj\Debug\net6.0\Ex67.AssemblyInfoInputs.cache
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex67\obj\Debug\net6.0\Ex67.AssemblyInfo.cs
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex67\obj\Debug\net6.0\Ex67.csproj.CoreCompileInputs.cache
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex67\bin\Debug\net6.0\Ex67.exe
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex67\bin\Debug\net6.0\Ex67.deps.json
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex67\bin\Debug\net6.0\Ex67.runtimeconfig.json
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex67\bin\Debug\net6.0\Ex67.dll
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex67\bin\Debug\net6.0\Ex67.pdb
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex67\obj\Debug\net6.0\Ex67.dll
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex67\obj\Debug\net6.0\refint\Ex67.dll
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex67\obj\Debug\net6.0\Ex67.pdb
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex67\obj\Debug\net6.0\Ex67.genruntimeconfig.cache
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex67\obj\Debug\net6.0\ref\Ex67.dll
