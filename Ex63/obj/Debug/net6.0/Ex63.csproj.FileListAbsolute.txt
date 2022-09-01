@@ -1,0 +1,15 @@
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex63\obj\Debug\net6.0\Ex63.csproj.AssemblyReference.cache
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex63\obj\Debug\net6.0\Ex63.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex63\obj\Debug\net6.0\Ex63.AssemblyInfoInputs.cache
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex63\obj\Debug\net6.0\Ex63.AssemblyInfo.cs
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex63\obj\Debug\net6.0\Ex63.csproj.CoreCompileInputs.cache
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex63\bin\Debug\net6.0\Ex63.exe
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex63\bin\Debug\net6.0\Ex63.deps.json
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex63\bin\Debug\net6.0\Ex63.runtimeconfig.json
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex63\bin\Debug\net6.0\Ex63.dll
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex63\bin\Debug\net6.0\Ex63.pdb
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex63\obj\Debug\net6.0\Ex63.dll
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex63\obj\Debug\net6.0\refint\Ex63.dll
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex63\obj\Debug\net6.0\Ex63.pdb
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex63\obj\Debug\net6.0\Ex63.genruntimeconfig.cache
+D:\Documents\education_analytic\Practise\1.09\seminar\Ex63\obj\Debug\net6.0\ref\Ex63.dll
